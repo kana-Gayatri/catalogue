@@ -1,3 +1,3 @@
 bucket    = "services3bucket"
-key          = "terraform-mutable/cart/prod/terraform.tfstate"
+key          = "terraform-mutable/catalogue/prod/terraform.tfstate"
 region    = "us-east-1"
